@@ -1,0 +1,42 @@
+/* Style for the data box */
+.data-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+}
+
+/* Color coding based on status */
+.green {
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+
+.red {
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+
+.yellow {
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+}
+
+.gray {
+    background-color: #f5f5f5;
+    border-color: #ddd;
+}
+
+/* Additional styling */
+h3 {
+    margin-top: 0;
+}
+
+#search-box {
+    margin-bottom: 20px;
+    padding: 5px;
+    width: 300px;
+}
